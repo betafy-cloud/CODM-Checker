@@ -1,1 +1,12 @@
-
+{
+  "bot_token": "8379533308:AAE25c-hJQDVL1GJSfKGrwEd5Y2OWGd-mZo",
+  "admin_ids": [8600264048],
+  "channel_username": "betafy",
+  "locked": false,
+  "global_limit": null,
+  "vip_limit": null,
+  "default_threads": 3,
+  "max_concurrent": 30,
+  "cooldown_sessions": null,
+  "cooldown_minutes": 30
+}
